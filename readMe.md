@@ -15,19 +15,14 @@ Project Portfolio will display your desired projects here.
 * Clone this repository
 
 ```bash
-git clone https://github.com/abhijeet007rocks8/Dev-Scripts
+git clone https://github.com/priyanshi1282/connecting-link-template
 ```
 
-* Change Directory
-
-```bash
-cd Dev-Scripts/"Web Development/Connecting-Link/"
-```
 
 * Open `index.html` in browser.
 
 ## Screenshot
-
-
-## Video
-
+<img src="./preview/home.png">
+<img src="./preview/homeResponsive.png">
+<img src="./preview/project.png">
+<img src="./preview/projectresponsive.png">
